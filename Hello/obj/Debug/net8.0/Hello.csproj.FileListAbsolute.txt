@@ -1,0 +1,14 @@
+D:\screenSound\Hello\bin\Debug\net8.0\Hello.exe
+D:\screenSound\Hello\bin\Debug\net8.0\Hello.deps.json
+D:\screenSound\Hello\bin\Debug\net8.0\Hello.runtimeconfig.json
+D:\screenSound\Hello\bin\Debug\net8.0\Hello.dll
+D:\screenSound\Hello\bin\Debug\net8.0\Hello.pdb
+D:\screenSound\Hello\obj\Debug\net8.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\screenSound\Hello\obj\Debug\net8.0\Hello.AssemblyInfoInputs.cache
+D:\screenSound\Hello\obj\Debug\net8.0\Hello.AssemblyInfo.cs
+D:\screenSound\Hello\obj\Debug\net8.0\Hello.csproj.CoreCompileInputs.cache
+D:\screenSound\Hello\obj\Debug\net8.0\Hello.dll
+D:\screenSound\Hello\obj\Debug\net8.0\refint\Hello.dll
+D:\screenSound\Hello\obj\Debug\net8.0\Hello.pdb
+D:\screenSound\Hello\obj\Debug\net8.0\Hello.genruntimeconfig.cache
+D:\screenSound\Hello\obj\Debug\net8.0\ref\Hello.dll
