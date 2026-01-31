@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\screenSound\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08805CB3-56F3-465A-B9C6-9E560D276462}|Project.csproj|d:\\screensound\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08805CB3-56F3-465A-B9C6-9E560D276462}|Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{167854E8-7229-C63A-099E-C75E793CAF57}|Project.csproj|d:\\screensound\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167854E8-7229-C63A-099E-C75E793CAF57}|Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\screenSound\\Project\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T00:04:35.526Z",
               "EditorCaption": ""
